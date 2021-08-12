@@ -1,0 +1,3 @@
+RowNo,Deal Name,D1,D2,D3,D4,D5,Is Active,Country,Currency,Company,Company Name,AsOfDate,ProcessIdentifier,RowHash
+1,First Deal,12345.6789,nan,-12345.6789,nan,nan,Yes,DZA,ANG,100,Abc Corporation,2021-08-12 12:37:54.325804,23360
+2,Second Deal,abc,-12345.6789,nan,nan,nan,No,ASM,AOA,200,Best Animations,2021-08-12 12:37:54.406799,23360
